@@ -2,11 +2,11 @@
 
 ## О сайте
 
-Подготовила: Кислякова Мария Владимировна, 335а
-Тема21: HTTP сервера и использование языков программирования (Nginx, Apache).
-Фреймворк: Foundation (№4)
-Прямая ссылка на сайт на GitHub Pages: https://imari09.github.io/servers_nginx_apache/
-Ссылка на репозиторий GitHub с исходным кодом: https://github.com/imari09/servers_nginx_apache
+- Подготовила: Кислякова Мария Владимировна, 335а
+- Тема21: HTTP сервера и использование языков программирования (Nginx, Apache).
+- Фреймворк: Foundation (№4)
+- Прямая ссылка на сайт на GitHub Pages: https://imari09.github.io/servers_nginx_apache/
+- Ссылка на репозиторий GitHub с исходным кодом: https://github.com/imari09/servers_nginx_apache
 
 ## О проекте
 
