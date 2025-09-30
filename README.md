@@ -2,6 +2,8 @@
 
 ## О проекте
 
+Демо сайта:** [https://imari09.github.io/servers_nginx_apache/](https://imari09.github.io/servers_nginx_apache/
+
 WEB-HYBRID - это образовательный веб-ресурс, предоставляющий детальное сравнение популярных HTTP серверов и технологий веб-разработки. Проект создан для помощи разработчикам и системным администраторам в выборе оптимальных решений для своих проектов.
 
 ## Основные возможности
@@ -40,31 +42,30 @@ WEB-HYBRID - это образовательный веб-ресурс, пред
 - Видео-контент интеграция
 
 ## Структура проекта
-web-hybrid/
+servers_nginx_apache/
 │
-├── index.html # Главная страница
-├── servers.html # Обзор HTTP серверов
-├── comparison.html # Сравнительный анализ
-├── languages.html # Языки программирования
+├── index.html
+├── servers.html
+├── comparison.html
+├── languages.html
 │
-├── HTTP Серверы/
-│ ├── apache.html # Детально об Apache
-│ ├── nginx.html # Детально о Nginx
-│ └── litespeed.html # Детально о LiteSpeed
+├── apache.html
+├── nginx.html
+├── litespeed.html
 │
-├── Языки программирования/
-│ ├── php.html # Язык PHP
-│ ├── python.html # Язык Python
-│ └── nodejs.html # Node.js
+├── php.html
+├── python.html
+├── nodejs.html
 │
-├── Стили/
-│ └── css/custom.css # Кастомные стили
+├── menu.html
+├── REALME_backup.md
 │
-├── Изображения/
-│ ├── img/apache_nginx.png
-│ ├── img/schema.png
-│ ├── img/lang.png
-│ └── img/servers.png
+├── css/
+│ └── custom.css
 │
-└── Документация/
-└── README.md # Этот файл
+└── img/
+├── apache_nginx.png
+├── schema.png
+├── lang.png
+├── servers.png # HTTP серверы
+└── favicon.ico # Иконка сайта
