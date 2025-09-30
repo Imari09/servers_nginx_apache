@@ -50,28 +50,53 @@ WEB-HYBRID - это образовательный веб-ресурс, пред
 ## Структура проекта
 servers_nginx_apache/
 │
+
 ├── index.html
+
 ├── servers.html
+
 ├── comparison.html
+
 ├── languages.html
+
 │
+
 ├── apache.html
+
 ├── nginx.html
+
 ├── litespeed.html
+
 │
+
 ├── php.html
+
 ├── python.html
+
 ├── nodejs.html
+
 │
+
 ├── menu.html
+
 ├── REALME_backup.md
+
 │
+
 ├── css/
+
 │ └── custom.css
+
 │
+
 └── img/
+
 ├── apache_nginx.png
+
 ├── schema.png
+
 ├── lang.png
+
 ├── servers.png # HTTP серверы
+
 └── favicon.ico # Иконка сайта
