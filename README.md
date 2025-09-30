@@ -77,12 +77,6 @@ servers_nginx_apache/
 
 │
 
-├── menu.html
-
-├── REALME_backup.md
-
-│
-
 ├── css/
 
 │ └── custom.css
